@@ -43,12 +43,9 @@ Bu projede, kod tekrarını önlemek için **metotların** nasıl oluşturulaca�
 ---
 
 ## ✨ EfTravel İstatistik Paneli 🛠️  
-![Ekran görüntüsü 2024-12-10 230909](https://github.com/user-attachments/assets/6a0ac267-d4ad-475e-afa2-6d64c74c13db)
 
-Bu projede Entity Framework kullanarak bir seyahat veri tabanındaki bilgileri sorgulayıp görselleştiren bir istatistik paneli geliştirdim. Proje, Windows Forms üzerinde çeşitli istatistikleri canlı olarak kullanıcıya göstermeyi amaçladı. 💻
+![Ekran görüntüsü 2024-12-10 230909](https://github.com/user-attachments/assets/bd938dcd-8d47-4453-9df4-13d06194fe03)
 
-Projede yer alan özellikler şunlardır: Toplam lokasyon sayısı, kapasite, rehber sayısı gibi genel bilgilerin hesaplanması. Ortalama kapasite ve fiyat gibi istatistiksel değerlerin gösterilmesi. Belirli bir şehir ya da ülkeye ait verilerin özel olarak filtrelenmesi. Maksimum kapasite ve fiyat gibi en yüksek değerlere sahip şehirlerin tespit edilmesi. Belirli bir rehberin sorumlu olduğu tur sayısının bulunması.
+Bu projede Windows Form üzerinde Entity Framework kullanarak bir seyahat veri tabanınındaki bilgileri görselleştiren bir paneldir. 
 
-Kazanımlarım: Entity Framework kullanarak veri tabanına bağlantı kurma, sorgulama ve LINQ ifadeleri ile filtreleme işlemlerini daha etkin bir şekilde kullanmayı öğrendim. Windows Forms uygulaması üzerinde veri tabanındaki bilgileri görselleştirerek kullanıcı dostu bir arayüz tasarladım. Sorgu sonuçlarını etkili bir şekilde işleyerek, projeye işlevsellik kattım. 📊 Bu proje, hem veri tabanı bilgimi geliştirmemi sağladı hem de görsel bir sonuç sunarak uygulamanın etkisini artırdı.
-
-Bu projeler sayesinde C# diline dair temel kavramları uygulamalı olarak öğrenme fırsatı buldum. İlerleyen projelerde bu bilgileri daha da geliştireceğim!
+Veritabanı bağlantısı kurma, LİNQ ifadeleri ile detaylı sorgulama işlemleri yapıldı.
