@@ -39,3 +39,13 @@ Bu projede dizilerin temel yapısı, eleman ekleme ve okuma işlemleri üzerinde
 
 ## ✨ Proje 8: Metotlar (Methods) 🛠️  
 Bu projede, kod tekrarını önlemek için **metotların** nasıl oluşturulacağı anlatılmıştır. Parametreli/parametresiz ve geriye değer döndüren/döndürmeyen metotlar örneklerle açıklanmıştır.
+
+---
+
+## ✨ EfTravel İstatistik Paneli 🛠️  
+
+![Ekran görüntüsü 2024-12-10 230909](https://github.com/user-attachments/assets/bd938dcd-8d47-4453-9df4-13d06194fe03)
+
+Bu projede Windows Form üzerinde Entity Framework kullanarak bir seyahat veri tabanınındaki bilgileri görselleştiren bir paneldir. 
+
+Veritabanı bağlantısı kurma, LİNQ ifadeleri ile detaylı sorgulama işlemleri yapıldı.
